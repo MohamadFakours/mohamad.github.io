@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <body>
 <h1>First heading.</h1>
 <h2>Second heading.</h2>
