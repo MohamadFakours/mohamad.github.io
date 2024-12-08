@@ -6,6 +6,5 @@
 <h3>Third heading.</h3>
 <p>First paragraph.</p>
 <a href="GitHub">First anchor.</a>
-<script src="js.js"></script>
 </body>
 </html>
